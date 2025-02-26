@@ -32,8 +32,4 @@
 - `requests`: To get public IP.
 - `smtplib`: For sending emails.
 
-## Installation:
-Ensure all the required libraries are installed using pip:
 
-```bash
-pip install pynput win32clipboard sounddevice scipy Pillow cryptography requests
