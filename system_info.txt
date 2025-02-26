@@ -1,0 +1,9 @@
+Public IP Address: 188.82.234.22
+Processor: Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: MSI
+Private IP Address: 192.168.1.71
+Start Time: 2025-02-26 11:29:37.278486
+End Time: 2025-02-26 11:29:37.524765
+Duration: 0:00:00.246279
