@@ -1,2 +1,5 @@
 # Snakey
 Final cool project for my Bsc at @UBI !
+
+
+This repository contains the full implementation and documentation for the Snakey project, a secure keylogging and insider threat detection tool aligned with the NIST Cybersecurity Framework (CSF). The core functionality is handled by Snakey_service.py, which contains all the core functionalities of #Snakey . Supporting scripts like GenerateKey.py, decrypt.py, and hash_verification.py manage encryption, decryption, and log integrity verification using hash chaining and Merkle roots (hash_ledger.json, merkle_root.txt). Log integrity and behavioral monitoring are supported by wazuh_alerts.log and geolocation data (last_country.txt). Markdown files such as this README.md, Dev_Notes_SnakeyV1.2.md, ReleaseNotesSnakeyV1.2.md, and the sequential SnakeyV1.x.md documents provide development notes and version history of the legacy versions of Snakey. The PDF reports (_Cyber_research_Snakey.pdf, Snakey Project implementation_ NIST CSF stages.pdf) document the project’s design, research basis, and alignment with industry standards from which this project laid foundation.
